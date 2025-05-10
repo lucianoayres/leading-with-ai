@@ -589,55 +589,37 @@ The future is AI-augmented. With strategic vision, disciplined execution, and a 
 ## References
 
 1. **Davenport, T., & Mittal, N. (2023).** *All-In on AI: How Smart Companies Win Big with Artificial Intelligence*. Harvard Business Review Press.
-   [https://hbr.org/product/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/10226-HBK-ENG](https://hbr.org/product/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/10226-HBK-ENG)
 
 2. **McKinsey Global Institute (2022).** *The State of AI in 2022 – And a Half Decade in Review*.
-   [https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-state-of-ai-in-2022](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-state-of-ai-in-2022)
 
 3. **PwC (2023).** *AI Predictions: Six AI Trends for 2023*.
-   [https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-predictions-2023.pdf](https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-predictions-2023.pdf)
 
 4. **Harvard Business Review (2020).** *Why So Many High-Profile Digital Transformations Fail*.
-   [https://hbr.org/2020/03/why-so-many-high-profile-digital-transformations-fail](https://hbr.org/2020/03/why-so-many-high-profile-digital-transformations-fail)
 
 5. **OECD (2021).** *OECD AI Principles*.
-   [https://oecd.ai/en/ai-principles](https://oecd.ai/en/ai-principles)
 
 6. **EU Commission (2023).** *Proposal for a Regulation on Artificial Intelligence (EU AI Act)*.
-   [https://artificialintelligenceact.eu](https://artificialintelligenceact.eu)
 
 7. **Google Cloud (2023).** *AI Adoption Framework*.
-   [https://cloud.google.com/blog/products/ai-machine-learning/ai-adoption-framework](https://cloud.google.com/blog/products/ai-machine-learning/ai-adoption-framework)
 
 8. **Microsoft (2021).** *Responsible AI Standard*.
-   [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 9. **IBM (2022).** *AI Governance: A Framework for Trust and Accountability*.
-   [https://www.ibm.com/blogs/policy/trustworthy-ai/](https://www.ibm.com/blogs/policy/trustworthy-ai/)
 
 10. **World Economic Forum (2020).** *Toolkit for Board Members on Responsible AI*.
-    [https://www.weforum.org/reports/ai-governance-toolkit](https://www.weforum.org/reports/ai-governance-toolkit)
 
 11. **Accenture (2023).** *The Art of AI Maturity: Advancing from Practice to Performance*.
-    [https://www.accenture.com/us-en/insights/artificial-intelligence/ai-investment](https://www.accenture.com/us-en/insights/artificial-intelligence/ai-investment)
 
 12. **Google Research (2022).** *What is MLOps?*.
-    [https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 13. **Deloitte Insights (2023).** *State of AI in the Enterprise, 5th Edition*.
-    [https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/state-of-ai-and-intelligent-automation.html](https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/state-of-ai-and-intelligent-automation.html)
 
 14. **World Economic Forum (2021).** *Global AI Action Alliance (GAIA)*.
-    [https://www.weforum.org/projects/global-ai-action-alliance](https://www.weforum.org/projects/global-ai-action-alliance)
 
 15. **Stanford University (2023).** *AI Index Report*.
-    [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
 
 16. **Open Data Institute (ODI).** *Data Ethics Canvas*.
-    [https://theodi.org/article/data-ethics-canvas/](https://theodi.org/article/data-ethics-canvas/)
-
+    
 17. **MIT Sloan Management Review (2021).** *Achieving AI at Scale*.
-    [https://sloanreview.mit.edu/projects/achieving-competitive-advantage-with-ai/](https://sloanreview.mit.edu/projects/achieving-competitive-advantage-with-ai/)
-
+    
 18. **Gartner (2023).** *Top Strategic Technology Trends: AI Trust, Risk and Security Management (AI TRiSM)*.
-    [https://www.gartner.com/en/articles/ai-trism](https://www.gartner.com/en/articles/ai-trism)
